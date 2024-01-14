@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 👨‍💻 Actively trying to master the art of code 
-- 18 years old
+
 <!--
 **AyouubJoudi/AyouubJoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
